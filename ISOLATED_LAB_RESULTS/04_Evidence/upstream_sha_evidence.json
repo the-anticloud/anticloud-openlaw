@@ -1,0 +1,38 @@
+{
+  "project": "OPENLAW",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "SFMOCI/openlaw",
+  "search_url": "https://api.github.com/search/repositories?q=openlaw&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "openlawteam/docs",
+      "stars": 98,
+      "license": "CC-BY-4.0"
+    },
+    {
+      "full_name": "sml2h3/openlawClawer",
+      "stars": 62,
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "SFMOCI/openlaw",
+      "stars": 110,
+      "license": "MIT"
+    },
+    {
+      "full_name": "openlawteam/openlaw-core",
+      "stars": 111,
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "IanHongruZhang/Openlaw_tools",
+      "stars": 52,
+      "license": null
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/SFMOCI/openlaw/commits/master",
+  "commit_status": 200,
+  "default_branch": null,
+  "commit_response_excerpt": "{\"sha\": \"5ee8e116836a4b302b4159d8f8fe1d84afae81ab\", \"commit\": {\"message\": \"updates to codes through 03/13/2014\", \"committer_date\": \"2014-04-17T20:55:46Z\"}}"
+}

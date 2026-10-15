@@ -540,10 +540,10 @@
  "version": "1.0.0",
  "source": {
   "git": {
-   "head": "7988e555824d170528aae719df5bf00644a9ae52",
-   "url": "https://github.com/sml2h3/openlawClawer",
-   "branch": "master",
-   "sha_verified_from": "GitHub API commits/master"
+   "url": "https://github.com/SFMOCI/openlaw",
+   "head": "5ee8e116836a4b302b4159d8f8fe1d84afae81ab",
+   "sha_verified_from": "revendor 2026-10-15: GitHub API commit lookup",
+   "previous_substitute": "https://github.com/sml2h3/openlawClawer"
   }
  }
 }
